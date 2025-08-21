@@ -15,7 +15,7 @@ The difference between Git and Github is that Git is a tool to track many things
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-Committing and pushing is how changes made from a local machine like a computor are saved to a repository in GitHub's system.
+Committing and pushing is how changes made from a local machine like a computor are added to a repository in GitHub's system. Commiting 
 
 **3. What is a repository and what does it contain?**
 
